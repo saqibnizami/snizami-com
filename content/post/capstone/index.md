@@ -23,22 +23,22 @@ The dataset used in this capstone was breast cancer histology slides, classified
                 _in situ_ carcinoma, 
                 invasive carcinoma 
     - dataset composition: 250 image training set and 20 image test set
-![Data Classes](capstone/classes.jpg)
+![Data Classes](classes.jpg)
 
 Since the training set of this data contained only 250 samples, image augmentation and patches were considered. Each one of the 2048x1536px images were divided into patches of 512x512 squaresm to be fed into the neural network.
 
-![Preprocessing](capstone/preprocessing.jpg)
+![Preprocessing](preprocessing.jpg)
 
 Next, the patches were augmented, using `ImageDataGenerator` in keras. This allowed for patches rotated at 0, 90, 270, 180 degrees, as well as vertically and horizontally. Since histology images are graded in an orientation agnositic manner, the augmented patches retained their classifications. The augmentation expanded the 250 image dataset to 70,000 patches.
 
-![Augmentation](capstone/augmentation.jpg)
+![Augmentation](augmentation.jpg)
 
 
 #### Convolutional Neural Net Architecture
 
 The architecture of the network was designed to train on different aspects of the tissue sample from edges for cellular membranes to nuclear arraingement.
 
-![Architecture](capstone/cnn.jpg)
+![Architecture](cnn.jpg)
 0. Input... 512,512,3  ...(BatchNormalization layer?) 
     --> https://arxiv.org/pdf/1502.03167.pdf 
         "BatchNormalization: Acc. Deep Network Training by Reducing Internal Covariate Shift"

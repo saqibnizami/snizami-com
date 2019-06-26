@@ -14,20 +14,20 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+#[[feature]]
+#  icon = "python"
+#  icon_pack = "fab"
+#  name = "Python"
  # description = ""
 
 [[feature]]
-  icon = "square-root-alt"
-  icon_pack = "fas"
+  icon = "python"
+  icon_pack = "fab"
   name = "Scientific Python Stack"
   description = "pandas, numpy, scikit-learn, statsmodels"  
 
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-area""
   icon_pack = "fas"
   name = "Statistics"
   description = "Inference, Reporting, Frequentist and Bayesian Methodology"  
@@ -53,7 +53,7 @@ subtitle = ""
 [[feature]]
   icon = "docker"
   icon_pack = "fab"
-  name = "Docker/DataOps"
-  description = "Productionized Data Products"
+  name = "Docker"
+  description = "Production-Ready Data Products"
 
 +++

@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = "General Assembly"
   company_url = ""
   location = "New York"
-  date_start = ["2018-10", "2019-06"]
+  date_start = "2018-10"
   date_end = ""
   description = """Taught Python programming and basic data science skills to UTC dX's leadership program cohort"""
 

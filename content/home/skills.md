@@ -51,9 +51,9 @@ subtitle = ""
   description = "A/B Testing" 
 
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  #description = "10%"
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker/DataOps"
+  description = "Productionized Data Products"
 
 +++

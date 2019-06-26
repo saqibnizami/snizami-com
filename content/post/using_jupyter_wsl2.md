@@ -1,3 +1,7 @@
+---
+date: 2019-06-26
+title: Configure Jupyter Notebook for Windows Subsystem for Linux 2
+---
 # Using Jupyter Notebook with WSL2
 
 Due to the archetectural changes in Windows Subsystem for Linux 2, the linux filesystem is hosted on a virtual drive. This VHD is accessed through an IP assigned to WSL2. To access the a Jupyter Notebook server running in WSL2, you must set the Jupyter Notebook config file to allow connections from locations other than localhost. 

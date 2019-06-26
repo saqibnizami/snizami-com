@@ -18,24 +18,24 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+ # description = ""
 
 [[feature]]
-  icon = "function"
+  icon = "fa-function"
   icon_pack = "fas"
-  name = "Scientific Python Stack: pandas, numpy, statsmodels"
-  description = "100%"  
+  name = "Scientific Python Stack"
+  description = "pandas, numpy, scikit-learn, statsmodels"  
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+ # description = "100%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  #description = "10%"
 
 +++

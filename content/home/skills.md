@@ -30,8 +30,26 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
- # description = "100%"  
-  
+  description = "Inference, Reporting, Frequentist and Bayesian Methodology"  
+ 
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "TensorFlow/Keras, PyTorch"
+
+[[feature]]
+  icon = "comments"
+  icon_pack = "fas"
+  name = "Natural Language Processing"
+  description = "NLTK, spaCy"  
+
+[[feature]]
+  icon = "vials"
+  icon_pack = "fas"
+  name = "Experiment Design" 
+  description = "A/B Testing" 
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"

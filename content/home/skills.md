@@ -19,7 +19,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "90%"
-  
+
+[[feature]]
+  icon = "function"
+  icon_pack = "fas"
+  name = "Scientific Python Stack: pandas, numpy, statsmodels"
+  description = "100%"  
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"

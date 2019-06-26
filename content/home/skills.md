@@ -24,10 +24,10 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Scientific Python Stack"
-  description = "pandas, numpy, scikit-learn, statsmodels"  
+  description = "pandas, numpy, scikit-learn, statsmodels"
 
 [[feature]]
-  icon = "chart-area""
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Statistics"
   description = "Inference, Reporting, Frequentist and Bayesian Methodology"  

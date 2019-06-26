@@ -1,13 +1,15 @@
+---
+title: "Project 4: West Nile Prevention Spray Analysis"
+date: "2018-06-15"
+categories: ["Projects"]
+header:
+    image: "p4title.png"
+    caption: "Project 4: West Nile Prevention Spray Analysis"
+---
 
-+++
-title = "Project 4: West Nile Prevention Analysis"
-date = "2018-06-15"
-categories = ["Projects"]
-+++
 
 
-
-![Project 4](p4title.png)
+<!-- ![Project 4](p4title.png) -->
 
 _Summary : This was a group project that presented many opportunities to engineer features and try out different visualizations and models. [Bokeh](https://bokeh.pydata.org/en/latest/) was used for visualizing map data, and the [XGBoost](https://xgboost.readthedocs.io/) library was used for the models. There were additional considerations to be made due to the unbalanced classes, geospatial data, and missing data._
 

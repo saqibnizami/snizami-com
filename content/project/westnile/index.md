@@ -2,8 +2,7 @@
 +++
 title = "Project 4: West Nile Prevention Analysis"
 date = "2018-06-15"
-author = "Saqib Nizami"
-categories = "Projects"
+categories = ["Projects"]
 +++
 
 

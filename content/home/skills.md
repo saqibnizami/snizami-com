@@ -21,7 +21,7 @@ subtitle = ""
  # description = ""
 
 [[feature]]
-  icon = "fa-function"
+  icon = "square-root-alt"
   icon_pack = "fas"
   name = "Scientific Python Stack"
   description = "pandas, numpy, scikit-learn, statsmodels"  

@@ -38,4 +38,4 @@ date_format = "Jan 2006"
   date_start = "2018-10-8"
   date_end = "2018-10-12"
   description = """Taught Python programming and basic data science skills to UTC dX's leadership program cohort"""
-++
++++

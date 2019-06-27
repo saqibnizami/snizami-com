@@ -29,6 +29,14 @@ date_format = "Jan 2006"
   * Developed Internal Dashboarding Platform
   * Created ETL for Google Ads and Facebook Ads Reporting
   """
+[[experience]]
+  title = "Instructional Associate - Python Programming"
+  company = "General Assembly"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2019-06-10"
+  date_end = "2019-06-14"
+  description = "Returned to help teach Python programming and basic data science skills to UTC dX's leadership program cohort"
 
 [[experience]]
   title = "Instructional Associate - Python Programming"

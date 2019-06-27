@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "coding, data science, statistics, development of all kinds."
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Learning
+- DataOps / Data Products
+- Data Visualization
 
 education:
   courses:
@@ -74,4 +74,4 @@ email: "snizami@gmail.com"
 # - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Data Science by way of Biomedical Research. I'm intrigued by the myriad applications of statistics and machine learning, as well as the Data and DevOps that enable them. I look forward to building on my knowledge in tangible ways. To that end, this site is a collection of projects and notes on my data science journey.

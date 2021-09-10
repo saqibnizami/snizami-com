@@ -1,6 +1,6 @@
-twitter = "@janedoe"
+twitter = "@kibsa"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
+introDescription = "dataaaa"
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 
@@ -56,10 +56,10 @@ enforceLightMode = false
 # footerLogo = "icons/copy.svg"
 
 # Text for the languages menu.
-languageMenuName = "🌐"
+# languageMenuName = "🌐"
 
 # Title separator, default to |.
-# titleSeparator = "|"
+titleSeparator = "|"
 
 # Enable or disable comments globally. Default to true.
 # comments = false
@@ -83,17 +83,17 @@ iconsDir = "icons/" # without a leading forward slash
 
 # website author
 [author]
-name = "Jane Doe"
+name = "Saqib Nizami"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
-[plausible_analytics]
-enable = false # to enable plausible analytics set to true.
-websiteDomain = "example.com" # domain name of your website, most cases same as your base url
-# plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is selfhosted
-# scritpName = "plausible" # default is set to plausible, only required if using a custome name for script
+# [plausible_analytics]
+# enable = false # to enable plausible analytics set to true.
+# websiteDomain = "example.com" # domain name of your website, most cases same as your base url
+# # plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is selfhosted
+# # scritpName = "plausible" # default is set to plausible, only required if using a custome name for script
 
-[matomo_analytics]
-enable = false # To enable matomo analytics change to `true`.
-websiteDomain = "example.com" # Set the domain name of your website, in most cases same as your base URL this is required.
-matomoDomain = "matomo.example.com" # Set to Matomo domain
-matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracked
+# [matomo_analytics]
+# enable = false # To enable matomo analytics change to `true`.
+# websiteDomain = "example.com" # Set the domain name of your website, in most cases same as your base URL this is required.
+# matomoDomain = "matomo.example.com" # Set to Matomo domain
+# matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracked
